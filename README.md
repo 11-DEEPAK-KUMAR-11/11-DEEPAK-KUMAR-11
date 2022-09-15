@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="800" width="300" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
+<img align="center" alt="Coding" height="300" width="800" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
 
 <h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
