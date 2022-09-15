@@ -1,18 +1,18 @@
-![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Untitled-1.jpg)
+![coding](https://user-images.githubusercontent.com/101390725/190351732-09eab56b-d825-49b8-b012-ddcba706a67f.gif)
 
-<h1 align="center">Hi , I'm Mriganka Mondal 👋</h1>
+<h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/coding-freak%20(1).gif">
 
-- 🔭 I’m currently working on **something cool 😉**
+- 🔭 I’m currently working on **something Different 😉**
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mriganka10/**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I love coding but I don't want to be a coder**
 
