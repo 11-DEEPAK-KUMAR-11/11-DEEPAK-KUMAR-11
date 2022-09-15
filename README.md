@@ -1,4 +1,4 @@
-![coding](https://user-images.githubusercontent.com/101390725/190351732-09eab56b-d825-49b8-b012-ddcba706a67f.gif)
+![pic](https://user-images.githubusercontent.com/101390725/190354630-7f6ecd5b-9273-4597-baff-b71320f36f69.gif)
 
 <h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
