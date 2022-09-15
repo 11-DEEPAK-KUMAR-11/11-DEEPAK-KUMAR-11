@@ -43,7 +43,7 @@
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,wordpress,git,netlify,vscode,spring boot,aws,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,wordpress,git,netlify,vscode)](https://skillicons.dev)
 
 <br>
 
