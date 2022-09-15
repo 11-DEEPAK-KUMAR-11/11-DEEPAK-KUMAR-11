@@ -59,7 +59,7 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mriganka&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=11-DEEPAK-KUMAR-11&column=7"/>
   </a>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Mriganka}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{11-DEEPAK-KUMAR-11}/count.svg" /></p> 
 <br></div>
 
 <p align="center">
