@@ -1,4 +1,5 @@
-![pic](https://user-images.githubusercontent.com/101390725/190354630-7f6ecd5b-9273-4597-baff-b71320f36f69.gif)
+<img align="center" alt="Coding"  width="400" src="![pic](https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif)">
+
 
 <h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
