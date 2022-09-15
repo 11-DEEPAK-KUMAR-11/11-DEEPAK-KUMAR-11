@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
 
 - 🔭 I’m currently working on **something Different 😉**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love coding but I don't want to be a coder**
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mriganka&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mriganka" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mriganka" /> </p> -->
 
 
 
