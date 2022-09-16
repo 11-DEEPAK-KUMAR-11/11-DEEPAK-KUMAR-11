@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **3511.deepak@gmail.com**
 
-- ⚡ Fun fact **I love coding but I don't want to be a coder**
+- ⚡ Fun fact **I love coding but I am curious learner**
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mriganka" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p> 
 
 
 
@@ -27,12 +27,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mriganka_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriganka_18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mriganka10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriganka10" height="30" width="40" /></a>
-<a href="https://fb.com/wrick.mondal.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrick.mondal.90" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/1onewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1onewalker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1onewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1onewalker" height="30" width="40" /></a>
-<a href="https://discord.gg/24A9knG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="24A9knG" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/mriganka_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriganka_18" height="30" width="40" /></a> -->
+
+<a href="https://www.linkedin.com/in/deepak-kumar-7879a1127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepak-kumar" height="30" width="40" /></a>
+
+<!-- <a href="https://fb.com/wrick.mondal.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrick.mondal.90" height="30" width="40" /></a> -->
+
+<!--<a href="https://www.hackerrank.com/1onewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1onewalker" height="30" width="40" /></a> -->
+
+<!--<a href="https://www.leetcode.com/1onewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1onewalker" height="30" width="40" /></a> -->
+
+<!--<a href="https://discord.gg/24A9knG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="24A9knG" height="30" width="40" /></a> -->
 </p>
 
 
@@ -80,8 +85,9 @@
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
-<a target="_blank" href="https://www.linkedin.com/in/mriganka10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:mrigankamondal10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/mriganka_18"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/deepak-kumar-7879a1127/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:3511.deepak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+<!--<a target="_blank" href="https://twitter.com/mriganka_18"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> -->
 <br>
 </p>
