@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **3511.deepak@gmail.com**
 
-- ⚡ Fun fact **I love coding but I am curious learner**
+<!-- - ⚡ Fun fact **I love coding but I am curious learner** -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p> 
 
