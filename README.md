@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
-<h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
+<h3 align="center">A passionate Java Backend Developer, Programmer & Tech-savvy person from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
