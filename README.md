@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **something Different 😉**
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Java Backend**
 
 - 💬 Ask me about **anything, about Java and its frameworks**
 
