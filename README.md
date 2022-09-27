@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 💬 Ask me about **anything, I am happy to help**
+- 💬 Ask me about **anything, about Java and its frameworks**
 
 - 📫 How to reach me **3511.deepak@gmail.com**
 
