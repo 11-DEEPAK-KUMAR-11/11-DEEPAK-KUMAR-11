@@ -65,7 +65,7 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=11-DEEPAK-KUMAR-11&column=7&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=11-DEEPAK-KUMAR-11&column=7&theme=tokyonight"/>
   </a>
 </div>
 
