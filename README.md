@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **something Different 😉** -->
 
-- 🌱 I’m currently learning **Maven,JPA & Hibernate**
+- 🌱 I’m currently learning **Maven, JPA, Spring & Hibernate**
 
 - 💬 Ask me about **anything, about Java and its frameworks**
 
