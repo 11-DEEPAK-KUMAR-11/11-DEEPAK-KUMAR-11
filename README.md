@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
 
-<!-- - 🔭 I’m currently working on **something Different 😉** -->
+<!-- - 🔭 I’m currently working on **something 😉** -->
 
 - 🌱 I’m currently learning **Spring boot**
 
