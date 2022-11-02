@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **something 😉** -->
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot and Restful Apis**
 
 - 💬 Ask me about **anything, about Java and its frameworks**
 
