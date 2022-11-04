@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
 
 
-Motivated and efficient Java developer and has an interest in coding. Working with Java stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+Motivated and efficient Java developer has an interest in coding. Programming languages like Java, JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
 <!-- - 🔭 I’m currently working on **something 😉**  -->
