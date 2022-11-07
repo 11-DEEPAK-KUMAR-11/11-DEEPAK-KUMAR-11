@@ -13,7 +13,7 @@ Motivated and efficient Java developer has an interest in coding. Programming la
 
 <!-- - 🔭 I’m currently working on **something 😉**  -->
 
-- 🌱 I’m currently learning **Spring boot and Restful Apis**
+- 🌱 I’m currently learning **Spring boot and Restful Api**
 
 - 💬 Ask me about **anything, about Java and its frameworks**
 
