@@ -11,7 +11,7 @@
 Motivated and efficient Java developer has an interest in coding. Programming languages like Java, JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on **Covid19-Vacination** 
+- 🔭 I’m currently working on **Covid19-Vacination Group project** 
 
 - 🌱 I’m currently learning **Spring boot and Restful Api**
 
