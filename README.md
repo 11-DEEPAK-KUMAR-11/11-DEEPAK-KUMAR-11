@@ -21,21 +21,17 @@ Motivated and efficient Java developer has an interest in coding. Programming la
 
 - ⚡ **I am curious learner** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p> 
-
-
-
-<!-- <p align="left"> <a href="https://twitter.com/mriganka_18" target="blank"><img src="https://img.shields.io/twitter/follow/mriganka_18?logo=twitter&style=for-the-badge" alt="mriganka_18" /></a> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--<a href="https://twitter.com/mriganka_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriganka_18" height="30" width="40" /></a> -->
+<!--<a href="https://twitter.com/deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak" height="30" width="40" /></a> -->
 
 <a href="https://www.linkedin.com/in/deepak-kumar-7879a1127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deepak-kumar" height="30" width="40" /></a>
 
-<!-- <a href="https://fb.com/wrick.mondal.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wrick.mondal.90" height="30" width="40" /></a> -->
+
 
 <!--<a href="https://www.hackerrank.com/1onewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1onewalker" height="30" width="40" /></a> -->
 
