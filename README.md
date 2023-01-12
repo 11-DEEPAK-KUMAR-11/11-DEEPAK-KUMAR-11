@@ -20,7 +20,7 @@ Motivated and efficient Java developer has an interest in coding. Programming la
 
 - ⚡ **I am curious learner** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p>
 
 
 
