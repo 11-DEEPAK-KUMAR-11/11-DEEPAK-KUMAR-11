@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" height="400" width="1200" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
 
-<h1 align="center">Hi , I'm DEEPAK KUMAR 👋</h1>
+<h1 align="center">Hi, I'm DEEPAK KUMAR 👋</h1>
 <h3 align="center">A passionate Java Backend Developer, Programmer from Haridwar,Uttrakhand, India</h3>
 
 
