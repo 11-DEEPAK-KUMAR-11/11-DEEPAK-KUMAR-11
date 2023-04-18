@@ -48,7 +48,7 @@ Motivated and efficient Java developer has an interest in coding. Programming la
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,wordpress,git,netlify,vscode,hibernate,springboot,Postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,wordpress,git,netlify,vscode,hibernate,springboot,Postman,thyemeleaf)](https://skillicons.dev)
 
 <br>
 
